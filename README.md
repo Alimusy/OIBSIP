@@ -10,6 +10,15 @@ self-contained notebook.
 | [Sales_Prediction.ipynb](Sales_Prediction.ipynb) | Predict sales from advertising spend across TV, radio and newspaper | Linear Regression | R² 0.86 |
 | [Unemployment.ipynb](Unemployment.ipynb) | Analyse unemployment in India through the Covid period | Exploratory data analysis and time series visualisation | Sharp spike visible in the April to June 2020 window |
 
+## Open it
+
+Every notebook runs in the browser, no setup:
+
+- Iris classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alimusy/OIBSIP/blob/main/Iris.ipynb)
+- Car price prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alimusy/OIBSIP/blob/main/Car_price.ipynb)
+- Sales prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alimusy/OIBSIP/blob/main/Sales_Prediction.ipynb)
+- Unemployment analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alimusy/OIBSIP/blob/main/Unemployment.ipynb)
+
 ## Running them
 
 ```bash
